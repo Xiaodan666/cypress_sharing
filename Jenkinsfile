@@ -29,7 +29,7 @@ post {
   <body>
     <div style="text-align:left">
         <h1 style="font-size:medium;color: black;">Test Report Refer to link: </h1>
-        <a href="http://localhost:8080/job/CypressWebAutoTest/allure/" target="_blank" style="color:cadetblue">http://localhost:8080/job/CypressWebAutoTest/allure/</a>
+        <a href="http://localhost:8080/job/pipeline%20demo/allure/" target="_blank" style="color:cadetblue">http://localhost:8080/job/CypressWebAutoTest/allure/</a>
     </div>
     <div>
       <li>
